@@ -1,4 +1,4 @@
-# rc-system-health-backend
+# rc-system-GoodHealth
 
 ## Required environment variables
 
